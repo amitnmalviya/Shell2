@@ -1,0 +1,3 @@
+[submodule "lib/common2Lib"]
+	path = lib/common2Lib
+	url = https://github.com/amitnmalviya/Commom2
