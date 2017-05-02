@@ -1,0 +1,76 @@
+
+my Machine: EEEPC0414
+iP: 	192.168.24.92
+	192.168.24.33
+
+https://github.com/
+github123456
+
+https://drive.google.com/drive/folders/0B3eF-OmO8e5FejJmZkNlYlF0NU0
+gmail credential
+
+http://www.jsoneditoronline.org/
+xml to json
+http://www.utilities-online.info/xmltojson/#.WOt3p2vhWM8
+
+Postman
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+
+Code for Tavisca
+For VS2015 users - K:\Tavisca\POC-GetARoom\SourceCode\13042017\VS2015
+K:\Tavisca\POC-GetARoom\SourceCode\13042017
+
+Jenkin Link : https://jenkins.io/doc/
+
+I have shared the below items on the K:\Tavisca\Project Management\RampUp\Reference Material
+1.	Metadata
+2.	USG Request 
+3.	USG Response
+4.	Test Scenarios
+
+Below are the URLs to access metadata and response for Ramp-up POC –
+
+http://192.168.14.41:8029/getaroom-response.xml
+http://192.168.14.41:8029/getaroom-metadata.json
+
+Xslt vs Object Mapping
+http://www.codemeit.com/xml/xslt-xml-transformation-vs-object-mapping.html
+
+
+
+https://global.gotomeeting.com/join/594935493
+
+https://drive.google.com/drive/folders/0B3eF-OmO8e5FLTFQYUJhUU5GWk0
+
+C:\Dev\DemoProjects\TaviskaTravels\Travel.Connectors.Hotels\Travel.Connectors.Hotels
+
+-> nsdl
+02027218080
+104 131 610 231
+
+
+
+https://github.com/dotnet/corefx/issues/11196
+
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	NU1001	The dependency Tavisca.Platform.Common >= 1.0.1 could not be resolved.	C:\Dev\connector-hotels-getaroom-core\Travel.Connectors.Hotel\src\Travel.Connectors.Hotel\Travel.Connectors.Hotel.xproj	C:\Dev\connector-hotels-getaroom-core\Travel.Connectors.Hotel\src\Travel.Connectors.Hotel\project.json	13	
+
+
+
+Error	NU1001	The dependency Tavisca.Platform.Common >= 1.0.1 could not be resolved.
+
+
+http://stackoverflow.com/questions/25436787/mvc-to-webapi-calls-losing-session
+
+
+Jsone Writer:
+
+http://www.newtonsoft.com/json/help/html/WriteJsonWithJsonTextWriter.htm
+
+github to jenkins
+https://github.com/gitbucket/gitbucket/wiki/Setup-Jenkins-GitHub-pull-request-builder-plugin
+--> https://github.com/amitnmalviya/Common
+
+Project Templates
+http://www.dotnetcurry.com/visualstudio/1243/create-project-template-visual-studio-2013-2015
